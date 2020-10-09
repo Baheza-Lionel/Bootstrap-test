@@ -1,9 +1,19 @@
+@charset "UTF-8";
 body {
-  background-color: red;
+  background-color: white;
 }
 
 p {
   color: green;
+}
+
+.identité-visuelle {
+  width: 250px;
+  height: 250px;
+}
+
+.navbar navbar {
+  background-color: #75344D;
 }
 
 /*# sourceMappingURL=main.css.map */
